@@ -1,2 +1,3 @@
 file A
 changed in branch B
+changed
