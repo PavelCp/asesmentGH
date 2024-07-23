@@ -1,3 +1,5 @@
 file A
 changed
 aaaaaaaanother line
+changed after new branch was added
+changed after new branch was added new
